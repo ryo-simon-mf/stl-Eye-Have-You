@@ -5,5 +5,5 @@ This file is released under the MIT License, see LICENCE.
 
 ## Authors
 ryo-simon-mf  
-Mail:ryosimon1108@gmail.com
+Mail:ryosimon1108[at]gmail.com
 
